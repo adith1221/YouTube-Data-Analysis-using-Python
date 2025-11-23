@@ -24,6 +24,6 @@ File used: youtube.csv
 * Top performing videos and categories
 
 ## Insights Gained
-*Certain categories consistently receive more engagement.
-*Likes, comments, and views show strong correlation in several video groups.
-*Viewer engagement varies widely by category and upload frequency.
+* Certain categories consistently receive more engagement.
+* Likes, comments, and views show strong correlation in several video groups.
+*    Viewer engagement varies widely by category and upload frequency.
