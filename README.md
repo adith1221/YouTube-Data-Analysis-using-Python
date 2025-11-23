@@ -11,17 +11,17 @@ File used: youtube.csv
 ## Technologies Used
 * Python
 * Pandas
-*NumPy
-*Matplotlib
-*Seaborn
-*Jupyter Notebook
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
 ## Key Analysis Performed
-*Viewership distribution using histograms
-*Category-wise engagement comparison
-*Correlation heatmap for likes, views, and comments
-*Trend analysis using bar plots and pairplots
-*Top performing videos and categories
+* Viewership distribution using histograms
+* Category-wise engagement comparison
+* Correlation heatmap for likes, views, and comments
+* Trend analysis using bar plots and pairplots
+* Top performing videos and categories
 
 ## Insights Gained
 *Certain categories consistently receive more engagement.
